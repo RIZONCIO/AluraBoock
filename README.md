@@ -29,7 +29,7 @@ O AluraBoock surge como uma extensão do universo educacional da Alura, fornecen
 
 Gostaria de experimentar o AluraBoock ? Clique no botão abaixo para acessar o teste do site.
 
-[![Teste Agora](https://github.com/RIZONCIO/AluraBoock/assets/61835786/f7b3b99b-7cb6-437f-949f-2259180fec5f)](https://alura-plus-aprendendo.vercel.app/)
+[![Teste Agora](https://github.com/RIZONCIO/AluraBoock/assets/61835786/591c23f3-b634-4a42-8dd2-d3d936ae8a78)](https://alura-boock.vercel.app/)
 
 ## Agradecimentos
 
