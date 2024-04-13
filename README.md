@@ -25,6 +25,11 @@ O AluraBoock surge como uma extensão do universo educacional da Alura, fornecen
 - **Plataforma Alura**: Aqui você vai encontrar as melhores plataformas da Alura.
 ![Plataforma Alura](https://github.com/RIZONCIO/AluraBoock/assets/61835786/943be196-f5bf-4bbf-b846-f23d16644e76)
 
+## Teste o AluraBoock!
+
+Gostaria de experimentar o AluraBoock ? Clique no botão abaixo para acessar o teste do site.
+
+[![Teste Agora]((https://github.com/RIZONCIO/AluraBoock/assets/61835786/f7b3b99b-7cb6-437f-949f-2259180fec5f))]([link_para_teste](https://alura-plus-aprendendo.vercel.app/))
 
 ## Agradecimentos
 
