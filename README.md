@@ -25,12 +25,6 @@ O AluraBoock surge como uma extensão do universo educacional da Alura, fornecen
 - **Plataforma Alura**: Aqui você vai encontrar as melhores plataformas da Alura.
 ![Plataforma Alura](https://github.com/RIZONCIO/AluraBoock/assets/61835786/943be196-f5bf-4bbf-b846-f23d16644e76)
 
-## Teste o AluraBoock!
-
-Gostaria de experimentar o AluraBoock ? Clique no botão abaixo para acessar o teste do site.
-
-[![Teste Agora](https://github.com/RIZONCIO/AluraBoock/assets/61835786/591c23f3-b634-4a42-8dd2-d3d936ae8a78)](https://alura-boock.vercel.app/)
-
 ## Agradecimentos
 
 Este projeto foi desenvolvido no curso de **HTML e CSS: responsividade com mobile-first** feito por mim E minha queridíssima instrutora [Monica Hillman](https://github.com/MonicaHillman). 
